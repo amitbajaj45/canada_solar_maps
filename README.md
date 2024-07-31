@@ -9,5 +9,5 @@ Pelland S., McKenney D. W., Poissant Y., Morris R., Lawrence K., Campbell K. and
 
 McKenney D. W., Pelland S., Poissant Y., Morris R., Hutchinson M, Papadopol P., Lawrence K. and Campbell K., 2008. Spatial insolation models for photovoltaic energy in Canada, Solar Energy 82, pp. 1049–1061.
 
-# Publisher - Current Organization Name: Natural Resources Canada
-# Licence: Open Government Licence - Canada - https://open.canada.ca/en/open-government-licence-canada
+Publisher - Current Organization Name: Natural Resources Canada
+Licence: Open Government Licence - Canada - https://open.canada.ca/en/open-government-licence-canada
